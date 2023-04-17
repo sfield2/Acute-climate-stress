@@ -7,12 +7,12 @@ packages <-c('tidyverse','sf','ggplot2','rgdal','rgeos','magrittr','plyr','FedDa
 for(p in packages) if(p %in% rownames(installed.packages()) == F) { install.packages(p) }
 for(p in packages) suppressPackageStartupMessages(library(p,quietly=T,character.only=T))
 
-setwd("C:/Users/seanp/Documents/R/ACUTE_CLIMATE_STRESS")
+setwd("...")
 theme_set(theme_bw())
 
 ######### STEP 1.0: IMPORT FUNCTIONS & DATA #####################################
 ### functions from Reese (2020)
-base::source('./FUNCTIONS/paleocar.R')
+base::source('./FUNCTIONS/Reese2020paleocar.R')
 
 ### CRS
 longlat.projection <- sp::CRS('+proj=longlat +datum=WGS84 +ellps=WGS84')
