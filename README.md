@@ -6,7 +6,7 @@ This directory contains code written in R for all analyses, and a directory for 
  
 ## Data 
 
-Portions of the data used in this research is provided in folder entitled "DATA". Sensitive site and ceramic data is not included meaning complete demographic reconstructions cannot be fully replicated. However, the data needed to replicate the Match Interval analyses and examples of the cliamte reconstructions are avaialbe. 
+Portions of the data used in this research is provided in folder entitled "DATA". Sensitive site and ceramic data is not included. As a result complete demographic reconstructions cannot be fully replicated; however, the data needed to replicate the Match Interval analyses and produce example climate reconstructions are avaialbe. 
 
 ## Analysis
 
