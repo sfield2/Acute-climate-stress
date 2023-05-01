@@ -2,7 +2,7 @@
 
 This directory contains code written in R for all analyses, and a directory for all data used, in:
 
- S. Field and D. Glowacki, L. Gettler. 2023. Climate and Community in Central Mesa Verde. Submitted to Journal of Quaternary Science.
+ S. Field and D. Glowacki. 2023. Climate and Community in Central Mesa Verde. Submitted to Journal of Quaternary Science.
  
 ## Data 
 
