@@ -16,6 +16,6 @@ are avaialbe in the folder. Contact Sean for requests of sensitive data.
 
 ## Analysis
 
-Script used for analysis is an R script, entitled "ANALYSIS.R", that contains all necessary commands for the replication of our analyses
+Script used for analysis is an R script, entitled "ANALYSIS.R", that contains all code to replicate many of the steps presented in the publication. 
 
 If you have questions, email Sean Field (sfield2@nd.edu).
