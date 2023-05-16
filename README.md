@@ -15,7 +15,7 @@ are avaialbe in the "DATA" folder.
 
 Additionally the summarized demographic and acute stress data for Far View, Morefield Canyong Great House Village, and Yellow Jacket Pueblo, which are needed to conduct the Match Interval analyses are also available in the "DATA" folder.  
 
-Contact Sean for requests of sensitive data.
+Contact Sean for requests of sensitive data (e.g., calibration ceramics.csv).
 
 ## Analysis
 
